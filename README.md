@@ -98,4 +98,3 @@ MIT — Free to use, share, and modify. Please credit the workshop if you reuse!
 
 ---
 
-*Made with ❤️ by **Adhavaa** & **Seraphim** for the Biosignals & Biopotentials Workshop*
